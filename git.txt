@@ -12,3 +12,7 @@ git status 查看状态 是否又提交文件
 git add . / -A 提交到暂存区
 git rm --cached . -r 取消提交到暂存区
 git commit -m 提交
+git log 查看提交日志
+git diff 工作区和暂存区
+git diff 分支名 工作区与历史区
+git diff --cached 暂存区与历史区
