@@ -17,4 +17,6 @@ git diff 工作区和暂存区
 git diff 分支名 工作区与历史区
 git diff --cached 暂存区与历史区
 
-22222222
+git checkout . 撤销工作区
+gei reset HEAD . 撤销暂存区
+
