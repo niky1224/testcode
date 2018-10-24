@@ -11,3 +11,4 @@ cat 文件名 查看文件
 git status 查看状态 是否又提交文件
 git add . / -A 提交到暂存区
 git rm --cached . -r 取消提交到暂存区
+git commit -m 提交
