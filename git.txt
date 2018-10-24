@@ -1,0 +1,13 @@
+pwd 工作目录
+mkdir 创建工作目录
+rm 文件名 删除文件夹
+rm -rf 删除目录
+git init 初始化git
+ls -al 显示所有文件
+touch 创建文件
+mkdir 创建目录
+cat 文件名 查看文件
+:wq 保存提交
+git status 查看状态 是否又提交文件
+git add . / -A 提交到暂存区
+git rm --cached . -r 取消提交到暂存区
