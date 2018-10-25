@@ -16,22 +16,14 @@ git log 查看提交日志
 git diff 工作区和暂存区
 git diff 分支名 工作区与历史区
 git diff --cached 暂存区与历史区
-
 git checkout . 撤销工作区
 gei reset HEAD . 撤销暂存区
-
 git reset --haed id号 回到指定版本
 git reflog 查看所有的版本号
-
 git remote add oringin git厂库地址   链接远程城厂库地址
-
 git push -u origin  分支    链接提交到那个分支的设置
-
-git branch   查看分支
-
+git branch   查看分
 git checkout -b 分支名    创建分支并且换到创建的分支
 git branch 分支名         创建相应的分支
-
-
 git checkout 分支名   切换到相应的分支
-
+git merge 合并分支
