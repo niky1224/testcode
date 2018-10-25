@@ -35,3 +35,4 @@ git branch 分支名         创建相应的分支
 
 git checkout 分支名   切换到相应的分支
 
+git pull origin 分支名   拉取代码
